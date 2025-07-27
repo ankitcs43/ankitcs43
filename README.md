@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar Aman</h1>
 <h3 align="center">A Skilled Developer with expertise in MERN stack and a strong foundation in core CS principles including DSA,Operating Systems,DBMS,Computer Networks and OOPs.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitcs43&label=Profile%20views&color=0e75b6&style=flat" alt="ankitcs43" /> </p>
-
 - 📫 How to reach me **ankitaman310@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -20,3 +18,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitcs43&show_icons=true&locale=en&layout=compact" alt="ankitcs43" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitcs43&show_icons=true&locale=en" alt="ankitcs43" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitcs43&" alt="ankitcs43" /></p>
